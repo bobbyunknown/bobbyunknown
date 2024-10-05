@@ -51,7 +51,15 @@
       <td><img src="https://img.shields.io/github/forks/bobbyunknown/luci-app-ipinfo?style=flat-square" alt="Forks"></td>
       <td><img src="https://img.shields.io/github/issues/bobbyunknown/luci-app-ipinfo?style=flat-square" alt="Issues"></td>
     </tr>
-  </tbody>
+      <td><a href="https://github.com/bobbyunknown/InsomWRT">InsomWRT</a></td>
+      <td>OpenWRT untuk Arm.</td>
+      <td><img src="https://img.shields.io/github/stars/bobbyunknown/InsomWRT?style=flat-square" alt="Stars"></td>
+      <td><img src="https://img.shields.io/github/downloads/bobbyunknown/InsomWRT/total?style=flat-square" alt="Downloads"></td>
+      <td><img src="https://img.shields.io/github/forks/bobbyunknown/InsomWRT?style=flat-square" alt="Forks"></td>
+      <td><img src="https://img.shields.io/github/issues/bobbyunknown/InsomWRT?style=flat-square" alt="Issues"></td>
+    </tr>
+    
+  </tbody>>
 </table>
 
 
