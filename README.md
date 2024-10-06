@@ -1,6 +1,6 @@
 <h1 align="center">
   
-:wave: Halo! Saya Bobby gabuter dari indonesia.
+:wave: Halo! Saya Bobby sang pemula gabuter dari indonesia.
 
 ![Visitor Count](https://profile-counter.glitch.me/bobbyunknown/count.svg)
 
