@@ -68,7 +68,7 @@
       <td><img src="https://img.shields.io/github/issues/bobbyunknown/InsomWRT?style=flat-square" alt="Issues"></td>
     </tr>
     
-  </tbody>>
+  </tbody>
 </table>
 
 
